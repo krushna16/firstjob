@@ -1,1 +1,1 @@
-echo " This is jenkins first job from github to test"
+echo " This is jenkins first job"
